@@ -37,7 +37,7 @@ REQUIRED LIBRARIES:
 
 4.pandas
 
-5. streamlit
+5.streamlit
 
 FEATURES: 
 
