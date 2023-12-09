@@ -2,6 +2,7 @@
 YOUTUBE DATA HARVESTING AND WAREHOUSING USING SQL,MONGODB AND STREAMLIT
 
 LinkedIn : https://www.linkedin.com/in/anu-priya-930359295/
+Demo video:https://www.linkedin.com/feed/update/urn:li:activity:7139180186620628992/
 
 YouTube Data Harvesting and Warehousing is a project that intends to provide users with the ability to access and analyse data from numerous YouTube channels. SQL, MongoDB, and Streamlit are used in the project to develop a user-friendly application that allows users to retrieve, save, and query YouTube channel and video data.
 
